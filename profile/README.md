@@ -377,18 +377,12 @@ Building a world-class team in London:
 
 ---
 
-## Press & Recognition
-
-**Coverage:**
-- Featured in conversations about the future of AI memory
-- Patent portfolio under review by USPTO
-- Early interest from major AI platforms
+## Team
 
 **Founder Background:**
-- Ex-Technical Product Manager @ Antler (Acting Head of Product)
+- Ex-Technical Product Manager @ Antler
 - Scaled Launch Academy to 10K users in 9 months
-- Ex-IBM, consulting, Government (Dept. of Justice Queensland)
-- UK Global Talent Visa recipient
+- Ex-IBM, Consulting, Government
 
 ---
 
@@ -403,7 +397,7 @@ Building a world-class team in London:
 
 **Currently seeking:**
 - Design partner customers (AI product teams)
-- Strategic seed investors (£2M round)
+- Strategic seed investors
 - Technical partnerships (AI platforms)
 - Founding team members (London-based)
 

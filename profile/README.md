@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🏎️ DriftOS</h1>
-  <p><strong>Conversation graph engine for AI</strong></p>
-  <p>Turn flat message logs into explainable, navigable structures</p>
+  <p><strong>Cut LLM token costs by 70%.</strong></p>
+  <p>Route conversations into semantic branches instead of replaying full history.</p>
   
   <p>
     <a href="https://driftos.dev">driftos.dev</a> •
